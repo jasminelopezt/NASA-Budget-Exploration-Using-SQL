@@ -1,8 +1,7 @@
 # NASA-Budget-Exploration-Using-SQL
 
 
-In this code-along, I used SQL and DataCamp Workspace to explore a dataset on NASA's planetary exploration budget.
-
+In this code-along, we used SQL in DataCamp to perform financial analysis on NASA's budget over the past years. 
 # Key Learnings
 
 Calculate with SQL, from simple summary statistics to more complex data manipulation using joins.
